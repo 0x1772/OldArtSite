@@ -1041,13 +1041,13 @@ body{
     background-repeat:no-repeat
 }
 .about--options>a:nth-child(1){
-    background-image:url("../img/about-winners.jpg")
+    background-image:url("../img/about-winners.webp")
 }
 .about--options>a:nth-child(2){
-    background-image:url("../img/about-philosophy.jpg")
+    background-image:url("../img/about-philosophy.webp")
 }
 .about--options>a:nth-child(3){
-    background-image:url("../img/about-history.jpg")
+    background-image:url("../img/about-history.webp")
 }
 .about--options>a:hover h3{
     bottom:-50px
