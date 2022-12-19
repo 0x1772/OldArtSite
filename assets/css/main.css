@@ -1,19 +1,5 @@
 @font-face{
     font-family:'Montserrat';
-    src:url("fonts/Montserrat-Black.eot");
-    src:local("☺"),url("fonts/Montserrat-Black.woff") format("woff"),url("fonts/Montserrat-Black.ttf") format("truetype"),url("fonts/Montserrat-Black.svg") format("svg");
-    font-weight:900;
-    font-style:normal
-}
-@font-face{
-    font-family:'Montserrat';
-    src:url("fonts/Montserrat-Bold.eot");
-    src:local("☺"),url("fonts/Montserrat-Bold.woff") format("woff"),url("fonts/Montserrat-Bold.ttf") format("truetype"),url("fonts/Montserrat-Bold.svg") format("svg");
-    font-weight:700;
-    font-style:normal
-}
-@font-face{
-    font-family:'Montserrat';
     src:url("fonts/Montserrat-Regular.eot");
     src:local("☺"),url("fonts/Montserrat-Regular.woff") format("woff"),url("fonts/Montserrat-Regular.ttf") format("truetype"),url("fonts/Montserrat-Regular.svg") format("svg");
     font-weight:400;
